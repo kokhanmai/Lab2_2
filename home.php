@@ -22,9 +22,9 @@
 			</td>
 			<td width="190" bgcolor="#FFFF66"><ul>
 				<li><a href="home.php">หน้าแรก</li>
-				<li><a href="room.php">ห้องพัก&ราคา500บาท </li>
+				<li><a href="room.php">ห้องพัก&ราคา5000000000000บาท555 </li>
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
-				<li><a href="contact.php">ติดต่อ</li>
+				<li><a href="contact.php">ติดต่อใคร</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
